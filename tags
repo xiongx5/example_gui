@@ -1,0 +1,31 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/496721d/
+Ui_MainWindow	trigger_chain_gui.py	26;"	c	inherits:object
+Ui_MainWindow.retranslateUi	trigger_chain_gui.py	377;"	m	class:Ui_MainWindow
+Ui_MainWindow.setupUi	trigger_chain_gui.py	27;"	m	class:Ui_MainWindow
+Window	main.py	14;"	c	inherits:QtGui.QWidget
+Window.__init__	main.py	15;"	m	class:Window
+Window.clear_log	main.py	75;"	m	class:Window
+Window.debug0	main.py	61;"	m	class:Window
+Window.home	main.py	33;"	m	class:Window
+Window.log	main.py	72;"	m	class:Window
+Window.update_result	main.py	69;"	m	class:Window
+__init__	main.py	15;"	m	class:Window
+_fromUtf8	trigger_chain_gui.py	15;"	f
+_translate	trigger_chain_gui.py	20;"	f
+_translate	trigger_chain_gui.py	23;"	f
+app	main.py	82;"	v
+clear_log	main.py	75;"	m	class:Window
+debug0	main.py	61;"	m	class:Window
+home	main.py	33;"	m	class:Window
+log	main.py	72;"	m	class:Window
+retranslateUi	trigger_chain_gui.py	377;"	m	class:Ui_MainWindow
+setupUi	trigger_chain_gui.py	27;"	m	class:Ui_MainWindow
+update_result	main.py	69;"	m	class:Window
+window	main.py	83;"	v
